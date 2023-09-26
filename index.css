@@ -1,0 +1,17 @@
+.btn{
+    background-color: darkgoldenrod;
+    width: 98px;
+    height: 30px;
+    border-radius: 40%;
+}
+.for{
+    background-color: darkgray;
+}
+.tble{
+    background-color: gainsboro;
+}
+.img2{
+    width: 15%;
+    height: 10%;
+    border-radius: 20%;
+}
